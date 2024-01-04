@@ -19,3 +19,7 @@ Basically, you drop the Gate Rack to a MIDI track and then you drag-drop the `SC
 ## GlitchySampler
 
 That one is also not my creation. It's a glitchy ›Simpler‹ rack by [https://llllllll.co/u/Xylr](Xylr).
+
+## Scratch
+
+Got those from the [dnksaus Discord server](https://discord.com/channels/921897457565200384/921944150981632030/1192270832811114506).
