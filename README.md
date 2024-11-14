@@ -28,6 +28,10 @@ Got those from the [dnksaus Discord server](https://discord.com/channels/9218974
 
 ...rack for Live 11 by [nuan sonar](https://nuansonar.bandcamp.com/)
 
+## Backslap
+
+...was made by ›The Tuning Room‹ on the Ned Rush Discord. But I think it's for Live 12 only.
+
 ## most of the rest
 
 ...are racks and presets I did myself - have fun!
