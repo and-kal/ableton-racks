@@ -23,3 +23,11 @@ That one is also not my creation. It's a glitchy ›Simpler‹ rack by [https://
 ## Scratch
 
 Got those from the [dnksaus Discord server](https://discord.com/channels/921897457565200384/921944150981632030/1192270832811114506).
+
+## sOPHIE bUBBLES
+
+...rack for Live 11 by [nuan sonar](https://nuansonar.bandcamp.com/)
+
+## most of the rest
+
+...are racks and presets I did myself - have fun!
