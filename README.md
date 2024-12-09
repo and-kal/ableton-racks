@@ -32,6 +32,10 @@ Got those from the [dnksaus Discord server](https://discord.com/channels/9218974
 
 ...was made by ›The Tuning Room‹ on the Ned Rush Discord. But I think it's for Live 12 only.
 
+## Phase Dry Wet Ableton 11.adg & Split Differences Ableton 11.adg
+
+...taken from [this tutorial by 2L&L](https://www.youtube.com/watch?v=Nn8fBzkiGEM)
+
 ## most of the rest
 
 ...are racks and presets I did myself - have fun!
