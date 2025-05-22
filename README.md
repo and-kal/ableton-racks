@@ -40,6 +40,14 @@ Got those from the [dnksaus Discord server](https://discord.com/channels/9218974
 
 ...taken from [this tutorial by 2L&L](https://www.youtube.com/watch?v=Nn8fBzkiGEM)
 
+## sieve.amxd
+
+Spectral Gate M4L device by j°̸̼̮ k] 짐김치🌠 - jimothy kimochi
+
+## mp3glitch.py
+
+ChatGPT-generated mp3 mangler by the same
+
 ## most of the rest
 
 ...are racks and presets I did myself - have fun!
