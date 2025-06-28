@@ -48,6 +48,14 @@ Spectral Gate M4L device by j°̸̼̮ k] 짐김치🌠 - jimothy kimochi
 
 ChatGPT-generated mp3 mangler by the same
 
+## glows1de stuff
+
+stuff by [glows1de](https://linktr.ee/glows1de), which I couldn't try, because they're for Ableton Live 12
+
+## Meister
+
+...is a simple Mastering Chain, which I built after [this tutorial](https://www.ambmusic.net/blog/2019/8/31/ableton-live-mastering-chain)
+
 ## most of the rest
 
 ...are racks and presets I did myself - have fun!
